@@ -1,5 +1,5 @@
 # Guess a Number Game
-## Android Java Example
+**Android Java Example**
 
 Here is my version of the Guess a Number game. This app generates a random number, prompts the user to make a guess, and gives helpful hints to the user. The user tries to guess the random number that was generated in the least amount of tries.
 
